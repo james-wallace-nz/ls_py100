@@ -12,6 +12,7 @@ range(5)        # Range         range
 None            # NoneType      NoneType
 {'foo': 'bar'}  # Dictionary    dict
 
+
 # 2. Create a tuple called names that contains several pet names. For instance:
 
 # Name
@@ -25,6 +26,7 @@ names = ('Asta', 'Butterscotch', 'Pudding', 'Neptune', 'Darwin')
 
 print(names)
 print(type(names))
+
 
 # 3. Create a dictionary named pets that contains a list of pet names and the type of animal. For instance:
 
